@@ -1,3 +1,1 @@
-# Object Oriented Programming
-
-Some examples of object oriented programming
+# Example of object oriented programming
