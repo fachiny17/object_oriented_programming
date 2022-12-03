@@ -1,1 +1,1 @@
-# Example of object oriented programming.
+# Object oriented programming exercise.
